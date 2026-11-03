@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishkumar0802/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/manishkumar0802/leetcode/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manishkumar0802/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/manishkumar0802/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/manishkumar0802/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manishkumar0802/leetcode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/manishkumar0802/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/manishkumar0802/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
