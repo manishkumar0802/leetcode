@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/manishkumar0802/leetcode/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manishkumar0802/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/manishkumar0802/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/manishkumar0802/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/manishkumar0802/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/manishkumar0802/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manishkumar0802/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -75,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/manishkumar0802/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/manishkumar0802/leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
