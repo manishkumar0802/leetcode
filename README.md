@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishkumar0802/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/manishkumar0802/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/manishkumar0802/leetcode/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manishkumar0802/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/manishkumar0802/leetcode/tree/master/0118-pascals-triangle) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manishkumar0802/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/manishkumar0802/leetcode/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/manishkumar0802/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manishkumar0802/leetcode/tree/master/0119-pascals-triangle-ii) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/manishkumar0802/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
