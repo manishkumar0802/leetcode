@@ -1,31 +1,39 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        int n = nums.size();
-        set<vector<int>> ans;
+     int n = nums.size();
+     vector<vector<int>> ans;
+     sort(nums.begin(), nums.end());
 
-        sort(nums.begin(), nums.end());
-        for(int i =0; i< n-2; i++){
-            if(i > 0 && nums[i] == nums[i-1])
-                continue;
+       for(int i = 0; i< n-2; i++){
+            if(i>0 && nums[i] == nums[i-1])
+            continue;
 
-            unordered_set<int> mpp;
+            int j = i+1;
+            int k = n-1;
 
-            for(int  j = i+1; j< n; j++){
-                int complement  = -nums[i] - nums[j];
+            while(j < k){
+                int sum = nums[i] + nums[j] + nums[k];
 
-                if(mpp.find(complement) != mpp.end()){
-                    vector<int> temp = {
-                        nums[i], nums[j], complement
-                    };
+                if(sum == 0){
+                    ans.push_back({nums[i], nums[j], nums[k]});
+                    j++;
+                    k--;
 
-                    sort(temp.begin(), temp.end());
-                    ans.insert(temp);
+                    while(j< k && nums[j] == nums[j-1])
+                    j++;
+
+                    while(j < k && nums[k] == nums[k+1])
+                    k--;
                 }
-            
-                mpp.insert(nums[j]);
+                else if(sum > 0){
+                    k--;
+                }
+                else{
+                    j++;
+                }
             }
-        }
-        return vector<vector<int>>(ans.begin(), ans.end());
+       }
+       return ans;
     }
 };
