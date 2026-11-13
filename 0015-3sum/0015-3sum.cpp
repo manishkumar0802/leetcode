@@ -26,11 +26,11 @@ public:
                     while(j < k && nums[k] == nums[k+1])
                     k--;
                 }
-                else if(sum > 0){
-                    k--;
+                else if(sum < 0){
+                    j++;
                 }
                 else{
-                    j++;
+                    k--;
                 }
             }
        }
