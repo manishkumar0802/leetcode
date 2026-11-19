@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/manishkumar0802/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishkumar0802/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/manishkumar0802/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/manishkumar0802/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/manishkumar0802/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/manishkumar0802/leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manishkumar0802/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/manishkumar0802/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/manishkumar0802/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/manishkumar0802/leetcode/tree/master/0169-majority-element) |
 ## Tree
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/manishkumar0802/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/manishkumar0802/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/manishkumar0802/leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Math
